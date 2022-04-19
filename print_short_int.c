@@ -1,4 +1,4 @@
-// #include "main.h"
+#include "main.h"
 
 /**
  * prinhint - prints a short integer
