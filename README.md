@@ -1,3 +1,4 @@
+This is a user defined printf function by Audu Aliyu Ehezu and Nafisat Faruk.
 printf
 
 A simple custom printf function built by Audu Aliyu Ehezu and Nafisat Faruk for Alx software Engineering School.
@@ -200,3 +201,4 @@ Authors
 Audu Aliyu Ehezu: @audualiyuehezu, Nafisat Faruk: @phyya
 
 End
+ main
