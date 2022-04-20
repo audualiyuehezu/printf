@@ -1,5 +1,5 @@
 #include "main.h"
-S
+
 /**
  * prinhhex - prints a short decimal in hexadecimal
  * @arguments: input string
