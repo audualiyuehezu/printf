@@ -1,4 +1,4 @@
-#include "main.h"S
+#include "main.h"
 
 /**
  * print_buf - prints buffer
