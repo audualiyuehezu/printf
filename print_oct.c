@@ -1,5 +1,5 @@
 #include "main.h"
-S
+
 /**
  * print_oct - prints decimal number in octal
  * @arguments: input number
