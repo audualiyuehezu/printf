@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * prinloct - prints long decimal number in octal
  * @arguments: input number
@@ -6,6 +7,7 @@
  * @ibuf: index for buffer pointer
  * Return: number of chars printed.
  */
+
 int prinloct(va_list arguments, char *buf, unsigned int ibuf)
 {
 	long int int_input, i, isnegative, count, first_digit;
