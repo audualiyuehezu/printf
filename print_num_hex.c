@@ -1,5 +1,5 @@
 #include "main.h"
-S
+
 /**
  * prinnhex - print number in hex begining with zero
  * @arguments: input string
