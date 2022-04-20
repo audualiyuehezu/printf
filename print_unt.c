@@ -1,5 +1,5 @@
 #include "main.h"
-S
+
 /**
  * print_unt - prints an unsigned int
  * @arguments: number to print
